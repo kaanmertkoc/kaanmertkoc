@@ -10,6 +10,8 @@
     I like full stack web technologies also i very much like developing mobile apps native or cross platform.
     <br />
     I also like to develop algorithms, make games... etc.
+    <br />
+    Currently working as a mobile app developer in Aposto!
 
 ### You can contact with me via these platforms!
 
