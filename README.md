@@ -10,7 +10,7 @@
     <br />
     I also like to develop algorithms, make games... etc.
     <br />
-    Currently working as a mobile app developer in Aposto!
+    Currently working as a mobile and web app developer in Aposto!
 
 ### You can contact with me via these platforms!
 
