@@ -46,6 +46,6 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
 ## 📊 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=kaanmertkoc&count_private=true&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanmertkoc&hide=html,ruby&layout=compact&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats-six-mu-61.vercel.app/api?username=kaanmertkoc&count_private=true&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats-six-mu-61.vercel.app/api/top-langs/?username=kaanmertkoc&hide=html,ruby&layout=compact&show_icons=true&theme=tokyonight">
 </div>
