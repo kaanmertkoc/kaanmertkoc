@@ -1,6 +1,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/kaanmertkoc?style=social)](https://github.com/kaanmertkoc?tab=followers)
+
 ![GitHub stars](https://img.shields.io/github/stars/kaanmertkoc?style=social)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kaanmertkoc)](https://git.io/streak-stats)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=kaanmertkoc)](https://git.io/streak-stats)
 
 # Hello
 
