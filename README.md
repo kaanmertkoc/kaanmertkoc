@@ -1,8 +1,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/kaanmertkoc?style=social)](https://github.com/kaanmertkoc?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/kaanmertkoc?style=social)
 
-[![GitHub Streak](https://kaanmertkoc-github-readme-streak-stats.vercel.app?user=kaanmertkoc)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=kaanmertkoc)]
 # Hello
 
 <p>
