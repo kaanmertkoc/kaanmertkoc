@@ -2,8 +2,6 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/kaanmertkoc?style=social)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kaanmertkoc)
-
 # Hello
 
 <p>
