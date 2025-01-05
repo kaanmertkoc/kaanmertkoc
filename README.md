@@ -2,17 +2,31 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/kaanmertkoc?style=social)
 
-# Hello
+# Hi there! 👋 I'm Kaan
 
-<p>
-    Hello, I am Kaan. I am a software developer who likes to develop things.
-    <br />
-    I like full stack web technologies also i very much like developing mobile apps native or cross platform.
-    <br />
-    I also like to develop algorithms, make games... etc.
-    <br />
-    Currently working as a mobile and web app developer in Aposto!
+## About Me
+I'm a passionate software developer and technology leader with a deep love for building innovative solutions. Currently serving as:
 
+- 🎯 CTO at [Cosmopolitan Turkey](https://www.cosmopolitanmag.com.tr)
+- 💡 Tech Lead at [Sober Digital](https://www.soberdigital.ist)
+- 📱 Mobile and Web App Developer at Aposto!
+
+## What I Do
+I specialize in full-stack development across various platforms and technologies:
+
+- 🌐 Full-stack web development
+- 📱 Mobile app development (both native and cross-platform)
+- ⚙️ Server-side architecture and implementation
+- 🎮 Game development
+- 🧮 Algorithm design and optimization
+
+## My Passion
+I thrive on turning complex problems into elegant solutions. Whether it's crafting responsive web applications, building scalable server architectures, or developing efficient mobile apps, I'm always excited to take on new challenges and explore cutting-edge technologies.
+
+## Let's Connect!
+Feel free to reach out if you want to collaborate on interesting projects or just chat about technology!
+
+---
 ### You can contact with me via these platforms!
 
 <a href="https://www.linkedin.com/in/kaan-mert-ko%C3%A7-2a57b5202/" target="_blank" rel="nofollow">
