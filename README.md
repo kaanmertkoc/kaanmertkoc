@@ -37,7 +37,11 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
 <div>
   <div>
     <img src="https://stats.kaanmertkoc.com/api?show_icons=true&count_private=true&theme=radical" alt="Kaan's GitHub stats" />
-    <img src="https://stats.kaanmertkoc.com/api/top-langs?layout=compact&theme=radical" alt="Top languages" />
   </div>
+  <div>
+      <img src="https://stats.kaanmertkoc.com/api/top-langs?layout=compact&theme=radical" alt="Top languages" />
+  </div>
+  <div>
     <img src="https://stats.kaanmertkoc.com/api/streak?theme=radical" alt="Contribution streak" />
+  </div>
 </div>
