@@ -5,11 +5,7 @@
 # Hi there! 👋 I'm Kaan
 
 ## About Me
-I'm a passionate software developer and technology leader with a deep love for building innovative solutions. Past significant jobs:
-
-- 🎯 CTO at [Cosmopolitan Turkey](https://preview.cosmomag.com.tr)
-- 💡 Tech Lead at [Sober Digital](https://www.soberdigital.ist)
-- 📱 Full Stack Developer at [Aposto!](https://www.aposto.com)
+I'm a passionate software developer and technology leader with a deep love for building innovative solutions.
 
 ## What I Do
 I specialize in full-stack development across various platforms and technologies:
@@ -39,6 +35,9 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
 ## 📊 GitHub Stats
 
 <div>
-  <img src="https://github-readme-stats-six-mu-61.vercel.app/api?username=kaanmertkoc&count_private=true&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats-six-mu-61.vercel.app/api/top-langs/?username=kaanmertkoc&hide=html,ruby&layout=compact&show_icons=true&theme=tokyonight">
+  <div>
+    <img src="https://stats.kaanmertkoc.com/api?show_icons=true&count_private=true&theme=radical" alt="Kaan's GitHub stats" />
+    <img src="https://stats.kaanmertkoc.com/api/top-langs?layout=compact&theme=radical" alt="Top languages" />
+  </div>
+    <img src="https://stats.kaanmertkoc.com/api/streak?theme=radical" alt="Contribution streak" />
 </div>
